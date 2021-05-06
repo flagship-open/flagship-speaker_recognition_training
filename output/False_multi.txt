@@ -1,0 +1,5 @@
+test file	prediction result
+aaa@yonsei.ac.kr-2.mp4	aag@yonsei.ac.kr
+aaa@yonsei.ac.kr-4.mp4	aae@yonsei.ac.kr
+aae@yonsei.ac.kr-2.mp4	aaf@yonsei.ac.kr
+aae@yonsei.ac.kr-5.mp4	aag@yonsei.ac.kr
